@@ -34,16 +34,6 @@ Gosto de construir projetos que funcionam de verdade, com demo no ar, testes e d
 
 ---
 
-## 🚀 Projetos em destaque
-
-| Projeto | O que é | Links |
-| ------- | ------- | ----- |
-| **roadmap-projects** | 6 mini-projetos de front-end (Flash Cards, Task Tracker, Tabs, Cookie Consent e outros) seguindo o roadmap.sh, em HTML, CSS e JavaScript | [Código](https://github.com/kauacampostp/roadmap-projects) · [Demo](https://kauacampostp.github.io/roadmap-projects/) |
-| **Mini-Twitter** | <!-- TODO: descreva em 1 linha quando o código estiver publicado --> | [Código](https://github.com/kauacampostp/Mini-Twitter) |
-| **Criador de currículo** | <!-- TODO: aplicação em React + Tailwind para montar currículos; publique o repo e troque este link --> | [Código](https://github.com/kauacampostp) · Demo <!-- TODO --> |
-
----
-
 ## 🌱 Em construção
 
 - **Painel de estoque e vendas para varejo**: React, TypeScript, FastAPI e PostgreSQL, com Docker, testes e CI.
@@ -57,8 +47,6 @@ Gosto de construir projetos que funcionam de verdade, com demo no ar, testes e d
 
 - Trilha full-stack do [roadmap.sh](https://roadmap.sh) e [The Odin Project](https://www.theodinproject.com)
 - React, com foco em testes
-- C++ e programação orientada a objetos na faculdade
-
 ---
 
 ## 📫 Contato
